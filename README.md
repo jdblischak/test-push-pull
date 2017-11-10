@@ -7,3 +7,5 @@ A [workflowr][] project.
 online edit.
 
 an online edit to cause problems.
+
+pull it with ssh
