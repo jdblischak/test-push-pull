@@ -13,3 +13,5 @@ Specifically,
 
 [rmarkdown]: http://rmarkdown.rstudio.com/rmarkdown_websites.htm
 [rstudio]: https://www.rstudio.com/products/rstudio/download/preview/
+
+push this with ssh
